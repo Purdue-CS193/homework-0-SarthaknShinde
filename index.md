@@ -1,4 +1,7 @@
 # Sarthak Shinde's First CS193 Homework 
+- 1 credit class
+- easy class
+- good resource to have
 ## Welcome to GitHub Pages
 
 
